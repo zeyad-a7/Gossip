@@ -608,11 +608,11 @@ html {
       <section class="section fade-in" id="soft-drinks">
         <h2>Soft Drinks <button class="toggle" onclick="toggleCollapse(this)">Toggle</button></h2>
         <ul class="list">
-          <li class="item"><div class="name">Water Small</div><div class="price">-</div></li>
-          <li class="item"><div class="name">Water Large</div><div class="price">-</div></li>
-          <li class="item"><div class="name">Cola / Sprite / Fanta</div><div class="price">-</div></li>
-          <li class="item"><div class="name">Fayrouz / Birell / Schweppes</div><div class="price">-</div></li>
-          <li class="item"><div class="name">Red Bull</div><div class="price">-</div></li>
+          <li class="item"><div class="name">Water Small</div><div class="price">25</div></li>
+          <li class="item"><div class="name">Water Large</div><div class="price">50</div></li>
+          <li class="item"><div class="name">Cola / Sprite / Fanta</div><div class="price">55</div></li>
+          <li class="item"><div class="name">Fayrouz / Birell / Schweppes</div><div class="price">65</div></li>
+          <li class="item"><div class="name">Red Bull</div><div class="price">130</div></li>
         </ul>
       </section>
 
