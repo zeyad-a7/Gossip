@@ -634,8 +634,8 @@ html {
           <li class="item"><div class="name">Chicken Wings (6 Pieces)</div><div class="price">135</div></li>
           <li class="item"><div class="name">Fried Shrimps</div><div class="price">190</div></li>
           <li class="item"><div class="name">Shrimp Cocktail</div><div class="price">200</div></li>
-          <li class="item"><div class="name">Calamari</div><div class="price">-</div></li>
-          <li class="item"><div class="name">Oriental Sausages</div><div class="price">-</div></li>
+          <li class="item"><div class="name">Calamari</div><div class="price">170</div></li>
+          <li class="item"><div class="name">Oriental Sausages</div><div class="price">150</div></li>
           <li class="item"><div class="name">White Cheese & Tomatoes</div><div class="price">80</div></li>
           <li class="item"><div class="name">Carrots & Cucumber Slices</div><div class="price">50</div></li>
           <li class="item"><div class="name">Tehina</div><div class="price">60</div></li>
@@ -680,7 +680,7 @@ html {
           <li class="item"><div class="name">Grilled Chicken with Mushroom Sauce</div><div class="price">350</div></li>
           <li class="item"><div class="name">Chicken Cordon Bleu</div><div class="price">310</div></li>
           <li class="item"><div class="name">Chicken Cacciatore</div><div class="price">360</div></li>
-          <li class="item"><div class="name">Chicken Gossip</div><div class="price">-</div></li>
+          <li class="item"><div class="name">Chicken Gossip</div><div class="price">360</div></li>
         </ul>
       </section>
     </div> <!-- grid fourth row -->
